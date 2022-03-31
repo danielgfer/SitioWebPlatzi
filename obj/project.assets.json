@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CursosPlatzi\\Platzi\\Web Apps\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CursosPlatzi\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "C:\\Users\\USER\\Desktop\\CursosPlatzi\\Platzi\\Web Apps\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\CursosPlatzi\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\CursosPlatzi\\Platzi\\Web Apps\\PlatziWebsite\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\CursosPlatzi\\Platzi\\Web Apps\\SitioWebPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
