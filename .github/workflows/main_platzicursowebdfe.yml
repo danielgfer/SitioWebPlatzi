@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'platzicursowebdfe'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_882EFEEEF4344667978D21CDF6B379E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B031782ED90E470BACF97C3F4DA2DA9C }}
           package: .
